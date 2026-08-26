@@ -600,7 +600,7 @@ Si buscas un analista enfocado en resolver problemas de negocio mediante datos l
 [![Portafolio](https://img.shields.io/badge/🌐_Portafolio-0B2545?style=for-the-badge)](https://sites.google.com/view/joseph-velasco-data-analyst/inicio)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge)](https://github.com/DatajosephVe)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge)](mailto:josephvelasco2223@gmail.com)
-[![CV](https://img.shields.io/badge/📄_Descargar_CV-134074?style=for-the-badge)](https://drive.google.com/file/d/12b6fu9ykucFDR12LD1fb1w6snUsg3mf5/view?usp=drive_link)
+[![CV](https://img.shields.io/badge/📄_Descargar_CV-134074?style=for-the-badge)](https://drive.google.com/file/d/1TG7yL_QXA8ul9wR1ELk41zo_BYcCbFgc/view?usp=sharing)
 
 📍 Venezuela 🇻🇪 · Disponible para trabajo remoto
 
